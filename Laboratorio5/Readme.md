@@ -1,1 +1,3 @@
-##Laboratorio5: Pruebas Funcionales y xUnit
+\begin{document}
+  \textbf{LABORATORIO 5:}
+\end{document}
